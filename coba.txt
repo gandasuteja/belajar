@@ -1,0 +1,5 @@
+resolusi tahun ini
+- belajar membuat website dari dasar
+- belajar html
+- belajar css
+- belajar javascript
